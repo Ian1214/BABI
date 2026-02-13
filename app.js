@@ -1,7 +1,7 @@
 const $ = (id) => document.getElementById(id);
 
 const DEFAULTS = {
-  name: "Andrea",
+  name: "Krizzia Mae C. Lagunero",
   nick: "Love",
   head: "Happy Valentine’s Day.",
   sub: "I made this for you. Open the surprises. Save the notes. Keep it forever.",
@@ -494,3 +494,4 @@ function main(){
 }
 
 main();
+
